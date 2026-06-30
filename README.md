@@ -28,3 +28,7 @@ This repository is used for learning blockchain development, Ethereum-compatible
 - Web3
 - Testnet
 Update README with Web3 project description
+## Notes
+
+This project is part of my Web3 learning path.
+I am testing Solidity contracts and EVM-compatible testnets.
